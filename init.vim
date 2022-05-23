@@ -75,7 +75,7 @@ let g:NERDTreeDirArrowCollapsible = '▾'
 "highlight Normal ctermbg=NONE
 "set laststatus=2
 "set noshowmode
-
+let NERDTreeShowHidden=1
 set background=dark
 highlight clear
 
